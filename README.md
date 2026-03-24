@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a second year college student of the School of Data Science at UVA, double majoring in Philosophy and minor in Statistics.
+I am currently a second year college student of the School of Data Science at UVA, double major in Philosophy and minor in Statistics.
